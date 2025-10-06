@@ -1,4 +1,7 @@
 [![DOI](https://zenodo.org/badge/516906791.svg)](https://zenodo.org/badge/latestdoi/516906791)
+<img src="https://sysartifacts.github.io/images/acm_available_1.1.png" alt="available" width="40" height="40">
+<img src="https://sysartifacts.github.io/images/acm_functional_1.1.png" alt="functional" width="40" height="40">
+<img src="https://sysartifacts.github.io/images/acm_reproduced_1.1.png" alt="reproduced" width="40" height="40">
 
 # STRONGHOLD: Fast and Affordable Billion-scale Deep Learning Model Training
 

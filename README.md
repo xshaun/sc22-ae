@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/516906791.svg)](https://zenodo.org/badge/latestdoi/516906791)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6887214.svg)](https://doi.org/10.5281/zenodo.6887214)
 <img src="https://sysartifacts.github.io/images/acm_available_1.1.png" alt="available" width="40" height="40">
 <img src="https://sysartifacts.github.io/images/acm_functional_1.1.png" alt="functional" width="40" height="40">
 <img src="https://sysartifacts.github.io/images/acm_reproduced_1.1.png" alt="reproduced" width="40" height="40">

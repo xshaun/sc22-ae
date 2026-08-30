@@ -1,3 +1,5 @@
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6887214.svg)](https://doi.org/10.5281/zenodo.6887214)
 <img src="https://sysartifacts.github.io/images/acm_available_1.1.png" alt="available" width="40" height="40">
 <img src="https://sysartifacts.github.io/images/acm_functional_1.1.png" alt="functional" width="40" height="40">
@@ -93,7 +95,7 @@ docker pull strongh/sc22-ae:latest
 ### 1.2  Create a new docker container based on this image. 
 
 ```bash
-docker run -it -P -w /home/sys/STRONGHOLD --name=aetesting --network=host --gpus=all --ipc=host strongh/sc22-ae:latest /bin/bash`
+docker run -it -P -w /home/sys/STRONGHOLD --name=aetesting --network=host --gpus=all --ipc=host strongh/sc22-ae:latest /bin/bash
 ```
 
 ### 1.3 Check the runtime environment.
@@ -302,5 +304,3 @@ PS: The bandwidth restriction in the virtual machine might slightly hurt the per
 ```
 
 > **`./examples/case5_extract.sh ` and `./examples/case5_draw.sh ` help you analysis log files and print the relevant information only.**
-
-
